@@ -5,5 +5,5 @@ builder.Services.AddCors(options =>
 });
 var app = builder.Build();
 app.UseCors("AllowAll");
-app.MapGet("/hello", () => "Hello from C#! 9");
+app.MapGet("/hello", () => "Hello from C#!");
 app.Run();
