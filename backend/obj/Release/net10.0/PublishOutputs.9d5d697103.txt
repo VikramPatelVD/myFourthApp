@@ -1,0 +1,7 @@
+C:\Users\Apple\myFourthApp\backend\publish\backend.exe
+C:\Users\Apple\myFourthApp\backend\publish\appsettings.Development.json
+C:\Users\Apple\myFourthApp\backend\publish\appsettings.json
+C:\Users\Apple\myFourthApp\backend\publish\backend.dll
+C:\Users\Apple\myFourthApp\backend\publish\backend.deps.json
+C:\Users\Apple\myFourthApp\backend\publish\backend.runtimeconfig.json
+C:\Users\Apple\myFourthApp\backend\publish\backend.pdb
