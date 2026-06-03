@@ -8,8 +8,7 @@ app.UseCors("AllowAll");
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-app.MapControllers();
 
 app.MapGet("/hello", () => "Hello from C#!");
-app.MapFallbackToFile("index.html");
+
 app.Run();
